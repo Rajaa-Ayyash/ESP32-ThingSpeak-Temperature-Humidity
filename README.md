@@ -112,7 +112,7 @@ WiFi Connected!
 Temperature: 24.00 C
 Humidity: 40.00 %
 Data sent successfully!
-Entry ID: 1
+Entry ID: 24
 ```
 
 The ThingSpeak channel recorded multiple readings and displayed temperature and humidity changes over time.
