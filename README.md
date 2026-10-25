@@ -12,7 +12,7 @@ ThingSpeak stores the data and displays it using two publicly accessible graphs.
 
 ## 2. Student Information
 
-- **Student Name:** Rajaa Ibrahim
+- **Student Name:** Rajaa Moneer Ahmed Ibrahim
 - **University ID:** 12220345
 - **Project:** ESP32 to ThingSpeak IoT Monitoring
 
