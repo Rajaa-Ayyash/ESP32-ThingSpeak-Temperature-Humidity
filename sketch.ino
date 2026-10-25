@@ -11,7 +11,7 @@ DHT dht(DHTPIN, DHTTYPE);
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
-const char* apiKey = "AVGTYO6T03WVIBRJ";
+const char* apiKey = "INSERT_THINGSPEAK_WRITE_API_KEY";
 const char* server = "http://api.thingspeak.com/update";
 
 
